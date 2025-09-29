@@ -44,7 +44,7 @@ To get a local copy of this project up and running:
 
 ```bash
 # 1️⃣ Clone the repo
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Rahul-Kumar-Paswan/portfolio
 
 # 2️⃣ Navigate into the project directory
 cd portfolio
@@ -84,10 +84,10 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 ## 📬 Contact
 
-- 🐱 GitHub: [Rahul's GitHub](https://github.com/your-username)
-- 💼 LinkedIn: [Rahul's LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: [Email Me](mailto:your@email.com)
-- 📄 Resume: [Download My Resume](https://your-resume-link.com)
+- 🐱 GitHub: [Rahul's GitHub](https://github.com/Rahul-Kumar-Paswan/)
+- 💼 LinkedIn: [Rahul's LinkedIn](https://www.linkedin.com/in/rahul-paswan-b1b57b227)
+- 📧 Email: [Email Me](mailto:rahulkumarpaswan941@gmail.com)
+- 📄 Resume: [Download My Resume](public/Rahul_Paswan_Resume.pdf)
 
 
 ## 📜 License
