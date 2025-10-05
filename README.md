@@ -55,7 +55,7 @@ npm install
 # 4️⃣ Start development server
 npm run dev
 ```
-🚀 Your app should now be running at: [http://localhost:3000](http://localhost:3000)
+🚀 Your app should now be running at: [http://localhost:5175](http://localhost:5175)
 
 ## 💻 Usage
 
@@ -81,6 +81,8 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 ### 🖼️ Screenshots:
 > ⚠️ Screenshots coming soon!  
+![output](screenshots/home.png)  
+_For more UI pages, check the [`/screenshots`](./screenshots) folder._
 
 ## 📬 Contact
 
