@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import profileImg from "../../assets/profile.jpeg";
+import profileImg from "../../assets/profile.png";
 import { Typewriter } from "react-simple-typewriter";
 import { FaUserGraduate, FaLaptopCode, FaCertificate, FaBookOpen, FaMedal, FaComments } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
