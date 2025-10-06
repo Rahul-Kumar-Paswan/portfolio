@@ -7,12 +7,13 @@ Welcome to my personal portfolio! I'm **Rahul Paswan**, a passionate **DevOps En
 ## 📋 Table of Contents
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Environment Variables](#environment-variables)
-6. [Live Demo / Screenshots](#live-demo--portfolio-screenshots)
-7. [Contact](#contact)
-8. [License](#license)
+3. [Architecture Diagram](#Architecture Diagram)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Environment Variables](#environment-variables)
+7. [Live Demo / Screenshots](#live-demo--portfolio-screenshots)
+8. [Contact](#contact)
+9. [License](#license)
 
 ---
 
@@ -35,6 +36,12 @@ Welcome to my personal portfolio! I'm **Rahul Paswan**, a passionate **DevOps En
 | React ⚛️       | React Three Fiber 🌌    | EmailJS 📬          | Vite ⚡              |
 | HTML5 / CSS3   | Typewriter Effect ✍️     | Docker 🐳          | ESLint / Prettier ✅  |
 | TailwindCSS 🎨 | Framer Motion 🎞️        | GitHub Actions ⚙️   | React Icons 🎯       |
+
+---
+---
+## 📁 Architecture Diagram
+
+![alt text](./screenshots/architecture-diagram.png)
 
 ---
 
